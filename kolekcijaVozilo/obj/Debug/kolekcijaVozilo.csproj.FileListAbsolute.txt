@@ -1,0 +1,11 @@
+C:\Users\ucenik\source\repos\kolekcijaVozilo\obj\Debug\kolekcijaVozilo.csproj.AssemblyReference.cache
+C:\Users\ucenik\source\repos\kolekcijaVozilo\obj\Debug\kolekcijaVozilo.csproj.SuggestedBindingRedirects.cache
+C:\Users\ucenik\source\repos\kolekcijaVozilo\obj\Debug\kolekcijaVozilo.Form1.resources
+C:\Users\ucenik\source\repos\kolekcijaVozilo\obj\Debug\kolekcijaVozilo.Properties.Resources.resources
+C:\Users\ucenik\source\repos\kolekcijaVozilo\obj\Debug\kolekcijaVozilo.csproj.GenerateResource.cache
+C:\Users\ucenik\source\repos\kolekcijaVozilo\obj\Debug\kolekcijaVozilo.csproj.CoreCompileInputs.cache
+C:\Users\ucenik\source\repos\kolekcijaVozilo\bin\Debug\kolekcijaVozilo.exe.config
+C:\Users\ucenik\source\repos\kolekcijaVozilo\bin\Debug\kolekcijaVozilo.exe
+C:\Users\ucenik\source\repos\kolekcijaVozilo\bin\Debug\kolekcijaVozilo.pdb
+C:\Users\ucenik\source\repos\kolekcijaVozilo\obj\Debug\kolekcijaVozilo.exe
+C:\Users\ucenik\source\repos\kolekcijaVozilo\obj\Debug\kolekcijaVozilo.pdb
